@@ -1,0 +1,15 @@
+Package: envpoll
+Title: What the Package Does (One Line, Title Case)
+Version: 1.0.0
+Authors@R: c(
+    person("Alexander", "Correa-Metrio", , "acorrea@geologia.unam.mx", role = c("aut", "cre")),
+    person("Luis Enrique", "Sanchez-Ramos", , "sanchez_ramos@geociencias.unam.mx", role = c("aut"))
+            )
+Description: What the package does (one paragraph).
+Imports: kohonen,
+          dplyr,
+          grDevices
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
