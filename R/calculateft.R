@@ -1,5 +1,5 @@
 
-#' Title
+#' Calculate Frequency Tables by Groups
 #'
 #' @param frequency_matrix A matrix that include frequency data
 #' @param group_names A name vector that identify each group
