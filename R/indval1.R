@@ -1,5 +1,5 @@
 
-#' Title
+#' Calculate IndVal Index for Taxa in a Group of Samples
 #'
 #' @description
 #' Auxiliary function for calculating indvalgp for a group of samples
