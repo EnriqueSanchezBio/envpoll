@@ -2,7 +2,7 @@
 % Please edit documentation in R/orderft.R
 \name{orderft}
 \alias{orderft}
-\title{Title}
+\title{Order Frequency Tables by Decreasing Values}
 \usage{
 orderft(frequency_tables)
 }

@@ -2,7 +2,7 @@
 % Please edit documentation in R/randomchi.R
 \name{randomchi}
 \alias{randomchi}
-\title{Title}
+\title{Perform Random Chi-Square Tests for Frequency Tables}
 \usage{
 randomchi(frequency_tables, bioregions, n_iter = 1000)
 }
@@ -19,7 +19,7 @@ random_table: A list of chi-square test results for each random sample.
 p_means: A list of mean p-values for each iteration across all frequency tables.
 }
 \description{
-Title
+Perform Random Chi-Square Tests for Frequency Tables
 }
 \examples{
 

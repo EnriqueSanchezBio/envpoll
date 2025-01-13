@@ -1,5 +1,6 @@
 
-#' Title
+#' Order Frequency Tables by Decreasing Values
+#'
 #' @description This function orders the values of the frequency tables from highest to lowest in each group.
 #' @param frequency_tables A list of data frames, where each data frame represents a frequency table.
 #'

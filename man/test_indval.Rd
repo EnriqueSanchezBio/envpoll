@@ -2,7 +2,7 @@
 % Please edit documentation in R/test.indvalgp.R
 \name{test_indval}
 \alias{test_indval}
-\title{Title}
+\title{Indicator Species Analysis with Randomization}
 \usage{
 test_indval(x, provinces, n, alpha = 0.05)
 }
@@ -25,7 +25,7 @@ A list containing:
 }
 }
 \description{
-Title
+Indicator Species Analysis with Randomization
 }
 \examples{
 

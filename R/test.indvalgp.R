@@ -1,4 +1,4 @@
-#' Title
+#' Indicator Species Analysis with Randomization
 #'
 #' @param x A matrix or data frame where rows represent samples and columns represent taxa.
 #' @param provinces A factor indicating the province to which each sample (row) belongs.

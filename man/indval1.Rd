@@ -2,7 +2,7 @@
 % Please edit documentation in R/indval1.R
 \name{indval1}
 \alias{indval1}
-\title{Title}
+\title{Calculate IndVal Index for Taxa in a Group of Samples}
 \usage{
 indval1(x)
 }

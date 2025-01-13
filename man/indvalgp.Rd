@@ -2,7 +2,7 @@
 % Please edit documentation in R/indvalgp.R
 \name{indvalgp}
 \alias{indvalgp}
-\title{Title}
+\title{Calculate IndVal Index for Taxa Across Provinces}
 \usage{
 indvalgp(x, provinces)
 }
@@ -15,7 +15,7 @@ indvalgp(x, provinces)
 A data frame where rows represent provinces and columns represent taxa. Values indicate the IndVal index observed for each combination of province and taxon.
 }
 \description{
-Title
+Calculate IndVal Index for Taxa Across Provinces
 }
 \examples{
 #

@@ -1,5 +1,5 @@
 
-#' Title
+#' Calculate IndVal Index for Taxa Across Provinces
 #'
 #' @param x A matrix where the rows are samples and the columns are taxa.
 #' @param provinces A factor indicating to which province each sample belongs.

@@ -2,7 +2,7 @@
 % Please edit documentation in R/som.representation2.R
 \name{som.representation2}
 \alias{som.representation2}
-\title{Title}
+\title{Perform Self-Organizing Map (SOM) Analysis and Plot Environmental Data}
 \usage{
 som.representation2(
   data,

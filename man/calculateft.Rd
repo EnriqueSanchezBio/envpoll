@@ -2,7 +2,7 @@
 % Please edit documentation in R/calculateft.R
 \name{calculateft}
 \alias{calculateft}
-\title{Title}
+\title{Calculate Frequency Tables by Groups}
 \usage{
 calculateft(frequency_matrix, group_names)
 }
@@ -15,7 +15,7 @@ calculateft(frequency_matrix, group_names)
 A list with filtered frequency tables per groups
 }
 \description{
-Title
+Calculate Frequency Tables by Groups
 }
 \examples{
 frequency_matrix <- matrix(c(1, 2, 2, 3, 3, 1, 4, 1), nrow = 4, byrow = TRUE)

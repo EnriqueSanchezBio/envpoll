@@ -1,5 +1,5 @@
 
-#' Title
+#' Perform Random Chi-Square Tests for Frequency Tables
 #'
 #' @param frequency_tables A list of frequency tables.
 #' @param bioregions A dataframe containing a column with any bioregion type used to generate random samples.

@@ -1,5 +1,5 @@
 
-#' Title
+#' Perform Self-Organizing Map (SOM) Analysis and Plot Environmental Data
 #'
 #' @description
 #' This function performs a Self-Organizing Map (SOM) analysis on the provided data and plots both the counts and the environmental variable codes.
