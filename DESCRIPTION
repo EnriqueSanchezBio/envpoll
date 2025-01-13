@@ -1,11 +1,11 @@
 Package: envpoll
-Title: What the Package Does (One Line, Title Case)
+Title: Environmental analysis from biotic occurrences
 Version: 1.0.0
 Authors@R: c(
     person("Alexander", "Correa-Metrio", , "acorrea@geologia.unam.mx", role = c("aut", "cre")),
     person("Luis Enrique", "Sanchez-Ramos", , "sanchez_ramos@geociencias.unam.mx", role = c("aut"))
             )
-Description: What the package does (one paragraph).
+Description: Environmental analysis from biotic occurrences.
 Imports: kohonen,
           dplyr,
           grDevices
